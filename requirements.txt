@@ -1,0 +1,4 @@
+Here are the requirements: 
+
+- Laptop 
+- python 
